@@ -1,0 +1,27 @@
+h1 {
+    text-align: center;
+}
+
+
+img {
+    width: 30%;
+}
+
+body {
+    background-image: url("https://images.unsplash.com/photo-1472791108553-c9405341e398?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MXx8fGVufDB8fHx8&w=1000&q=80");
+    Background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    color: black;
+    text-align: center;
+}
+
+div {
+    background:
+    rgba(77,168,161,.3);
+    margin:20px;
+}
+.am{
+    text-decoration:underline;
+
+}
