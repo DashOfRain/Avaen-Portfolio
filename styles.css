@@ -1,5 +1,7 @@
 h1 {
     text-align: center;
+    border: 1px solid;
+    background: rgba(77, 168, 161, .2);
 }
 
 
@@ -13,16 +15,28 @@ body {
     background-attachment: fixed;
     background-size: cover;
     color: black;
-    text-align: center;
 }
 
-div {
+section {
     background:
-    rgba(77,168,161,.3);
-    margin:20px;
-}
-.am{
-    text-decoration:underline;
-    
+        rgba(77, 84, 77, .3);
+    margin: 15px;
 
+    border: 1px solid;
+    display: flex;
+    justify-content: flex-start;
+}
+
+nav {
+    display: flex;
+}
+
+.flexing {
+    justify-content: center;
+
+}
+
+.navagation {
+    margin: .5%;
+    padding: .5%;
 }
